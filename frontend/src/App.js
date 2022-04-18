@@ -6,6 +6,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<HomeView/>} />
+      <Route path="/nfe" element={<HomeView/>} />
       <Route path="*" element={<NotFoundView/>} />
     </Routes>    
   );

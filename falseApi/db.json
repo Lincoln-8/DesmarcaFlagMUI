@@ -1,0 +1,30 @@
+{
+  "nfe": [
+    {
+      "id": 1,
+      "filial": "01",
+      "serie": "3",
+      "documento": "000039234",
+      "data_digitacao": "20220215",
+      "emissao": "20220215",
+      "fornecedorCod": "059697",
+      "fornecedorLoja": "01",
+      "valor_bruto": 2148.24,
+      "data_lancamento": "20220215",
+      "recno": 1
+    },
+    {
+      "id": 2,
+      "filial": "04",
+      "serie": "3",
+      "documento": "000024549",
+      "data_digitacao": "20220215",
+      "emissao": "20220215",
+      "fornecedorCod": "9OMPQB",
+      "fornecedorLoja": "01",
+      "valor_bruto": 669.9,
+      "data_lancamento": "20220215",
+      "recno": 30
+    }
+  ]
+}
